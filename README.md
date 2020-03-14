@@ -37,13 +37,23 @@ GitHub Pages を更新したい場合は、 master ブランチに push して�
 
 以下のすべてのファイルでMarkdownにより記述ができます。
 
-### src/@lekoarts/gatsby-theme-minimal-blog/texts/hero.mdx
+### トップページ上部
 
-トップページ上部の告知が書かれた部分を編集できます。
+トップページ上部の告知が書かれた部分は、以下のファイルから編集できます。
 
-### src/@lekoarts/gatsby-theme-minimal-blog/texts/bottom.mdx
+`src/@lekoarts/gatsby-theme-minimal-blog/texts/hero.mdx`
 
-トップページ下部のリンク集の部分を編集できます。
 
-### content/posts/ 以下
+### トップページ下部
 
+トップページ下部のリンク集の部分は、以下のファイルから編集できます。
+
+`src/@lekoarts/gatsby-theme-minimal-blog/texts/bottom.mdx`
+
+
+### ブログ記事
+
+content/posts/ 以下にフォルダを作り、index.mdx ファイルを作成してください。
+index.mdx を以下のサンプルファイルを参考に編集してください。
+
+<https://github.com/uedayou/event-page-gatsby/content/posts/path-of-this-post/index.mdx>
