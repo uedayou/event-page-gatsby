@@ -21,6 +21,11 @@ GitHub Action を利用した GitHub Pages のデプロイは、以下のペー�
 
 <https://uedayou.github.io/event-page-gatsby/>
 
+実際に、技術系イベントで使用した事例です。
+
+[インターナショナル・オープンデータ・デイ2020 大阪](https://iodd2020osaka.lodosaka.jp/)
+
+
 ## 更新方法
 
 GitHub Actions と連動して、自動的にGitHub Pagesにデプロイされます。
