@@ -13,6 +13,10 @@ GitHub Actionsを利用して、自動的にGitHub Pagesとして公開するこ
 - GitHub Actions
 - GitHub Pages
 
+GitHub Action を利用した GitHub Pages のデプロイは、以下のページの「デプロイトークンの設定」に従って、リポジトリのSettingsページであらかじめ設定を行っておいてください。
+
+[GitHub Actions による GitHub Pages への自動デプロイ#デプロイトークンの設定](https://qiita.com/peaceiris/items/d401f2e5724fdcb0759d#%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A)
+
 
 ## 更新方法
 
@@ -24,16 +28,14 @@ GitHub Pages を更新したい場合は、 master ブランチに push して�
 ### 共通
 
 以下のすべてのファイルでMarkdownにより記述ができます。
-詳しい記述ルールは、[こちら](./lib/gatsby-theme-minimal-blog/README.md)をご覧ください。
 
-### src/src/@lekoarts/gatsby-theme-minimal-blog/texts/hero.mdx
+### src/@lekoarts/gatsby-theme-minimal-blog/texts/hero.mdx
 
 トップページ上部の告知が書かれた部分を編集できます。
 
-### src/src/@lekoarts/gatsby-theme-minimal-blog/texts/bottom.mdx
+### src/@lekoarts/gatsby-theme-minimal-blog/texts/bottom.mdx
 
 トップページ下部のリンク集の部分を編集できます。
 
 ### content/posts/ 以下
-
 
