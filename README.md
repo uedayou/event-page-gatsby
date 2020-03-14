@@ -56,4 +56,4 @@ GitHub Pages を更新したい場合は、 master ブランチに push して�
 content/posts/ 以下にフォルダを作り、index.mdx ファイルを作成してください。
 index.mdx を以下のサンプルファイルを参考に編集してください。
 
-<https://github.com/uedayou/event-page-gatsby/content/posts/path-of-this-post/index.mdx>
+<https://github.com/uedayou/event-page-gatsby/blob/master/content/posts/path-of-this-post/index.mdx>
