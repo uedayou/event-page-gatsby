@@ -31,11 +31,26 @@ GitHub Action を利用した GitHub Pages のデプロイは、以下のペー�
 GitHub Actions と連動して、自動的にGitHub Pagesにデプロイされます。
 GitHub Pages を更新したい場合は、 master ブランチに push してください。
 
+ローカルで確認するときは、 まず`npm i`によりパッケージをインストールしてください。
+
+```
+$ npm i
+```
+
+その後、`npm run develop`を実行すると、`http://localhost:8000/`からサイトを確認できます。
+
+```
+$ npm run develop
+```
+
 ## 編集方法
 
 ### 共通
 
-以下のすべてのファイルでMarkdownにより記述ができます。
+`gatsby-config.js`のサイトの情報を更新してください。
+
+その後、以下ページを編集してください。
+すべてのファイルは、Markdownにより記述ができます。
 
 ### トップページ上部
 
