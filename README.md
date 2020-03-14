@@ -17,6 +17,9 @@ GitHub Action を利用した GitHub Pages のデプロイは、以下のペー�
 
 [GitHub Actions による GitHub Pages への自動デプロイ#デプロイトークンの設定](https://qiita.com/peaceiris/items/d401f2e5724fdcb0759d#%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A)
 
+このリポジトリをGitHub Pagesにデプロイすると以下のようになります。
+
+<https://uedayou.github.io/event-page-gatsby/>
 
 ## 更新方法
 
